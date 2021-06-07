@@ -224,7 +224,7 @@ Resolve guard is used in the scenario where before navigating to any route we wa
 
 ## Summary
 
-We talk a lot today! Isn't that great! Well, I tries to cover most of the routing guards in detail, so that when you build you next web application you can pick and choose. Once you get hold of Angular Route Guards, adding authentication to your web pages will be seamless. 
+We talk a lot today! Isn't that great! Well, I tried to cover most of the routing guards in detail, so that when you build you next web application you can pick and choose. Once you get hold of Angular Route Guards, adding authentication to your web pages will be seamless. 
 This blog is written :writing_hand: in collaboration with Perceptron Labs (perceptronlabs.ai). 
 
 *Happy Learning!* :metal:
